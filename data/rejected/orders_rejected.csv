@@ -1,0 +1,9 @@
+order_id,customer_id,order_date,status,amount,reject_reason
+1004.0,204.0,,Delivered,1500.0,Invalid order date
+1006.0,201.0,2026-02-11,Delivered,,Invalid Amount
+1007.0,202.0,2026-02-14,Delivered,-500.0,Negative Amount
+1008.0,999.0,2026-02-20,Delivered,2100.0,Unmatched Customer Id
+1009.0,203.0,2026-03-03,Unknown,2700.0,Invalid Status
+1010.0,,2026-03-09,Pending,1200.0,Missing Customer Id
+1002.0,202.0,2026-01-12,Delivered,1800.0,Duplicate Order Id
+,205.0,2026-03-20,Pending,1400.0,Missing Order Id

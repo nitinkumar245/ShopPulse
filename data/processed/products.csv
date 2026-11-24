@@ -1,0 +1,6 @@
+product_id,product_name,category,unit_price,tags
+301,Keyboard,Electronics,1200,"['computer', 'accessory']"
+302,Mouse,Electronics,600,"['computer', 'accessory']"
+303,Office Chair,Furniture,3500,"['office', 'furniture']"
+304,Desk,Furniture,7000,"['office', 'furniture']"
+305,Notebook,Stationery,100,"['office', 'paper']"
